@@ -1,0 +1,91 @@
+# gffcompare v0.12.6 | Command line was:
+#gffcompare -V -r reference_annotation -d 100 -p TCONS StringTie_on_data_375__Assembled_transcripts StringTie_on_data_376__Assembled_transcripts StringTie_on_data_377__Assembled_transcripts StringTie_on_data_378__Assembled_transcripts
+#
+
+#= Summary for dataset: StringTie_on_data_375__Assembled_transcripts 
+#     Query mRNAs :     349 in     325 loci  (30 multi-exon transcripts)
+#            (9 multi-transcript loci, ~1.1 transcripts per locus)
+# Reference mRNAs :    5678 in    4854 loci  (0 multi-exon)
+# Super-loci w/ reference transcripts:        0
+#-----------------| Sensitivity | Precision  |
+        Base level:     0.0     |     0.0    |
+        Exon level:     0.0     |     0.0    |
+  Transcript level:     0.0     |     0.0    |
+       Locus level:     0.0     |     0.0    |
+
+     Matching intron chains:       0
+       Matching transcripts:       0
+              Matching loci:       0
+
+          Missed exons:    5678/5678	(100.0%)
+           Novel exons:     389/389	(100.0%)
+         Novel introns:      36/36	(100.0%)
+           Missed loci:    4854/4854	(100.0%)
+            Novel loci:     325/325	(100.0%)
+
+#= Summary for dataset: StringTie_on_data_376__Assembled_transcripts 
+#     Query mRNAs :     353 in     341 loci  (19 multi-exon transcripts)
+#            (10 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :    5678 in    4854 loci  (0 multi-exon)
+# Super-loci w/ reference transcripts:        0
+#-----------------| Sensitivity | Precision  |
+        Base level:     0.0     |     0.0    |
+        Exon level:     0.0     |     0.0    |
+  Transcript level:     0.0     |     0.0    |
+       Locus level:     0.0     |     0.0    |
+
+     Matching intron chains:       0
+       Matching transcripts:       0
+              Matching loci:       0
+
+          Missed exons:    5678/5678	(100.0%)
+           Novel exons:     372/372	(100.0%)
+         Novel introns:      20/20	(100.0%)
+           Missed loci:    4854/4854	(100.0%)
+            Novel loci:     341/341	(100.0%)
+
+#= Summary for dataset: StringTie_on_data_377__Assembled_transcripts 
+#     Query mRNAs :     421 in     412 loci  (10 multi-exon transcripts)
+#            (5 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :    5678 in    4854 loci  (0 multi-exon)
+# Super-loci w/ reference transcripts:        0
+#-----------------| Sensitivity | Precision  |
+        Base level:     0.0     |     0.0    |
+        Exon level:     0.0     |     0.0    |
+  Transcript level:     0.0     |     0.0    |
+       Locus level:     0.0     |     0.0    |
+
+     Matching intron chains:       0
+       Matching transcripts:       0
+              Matching loci:       0
+
+          Missed exons:    5678/5678	(100.0%)
+           Novel exons:     431/431	(100.0%)
+         Novel introns:      10/10	(100.0%)
+           Missed loci:    4854/4854	(100.0%)
+            Novel loci:     412/412	(100.0%)
+
+#= Summary for dataset: StringTie_on_data_378__Assembled_transcripts 
+#     Query mRNAs :     429 in     414 loci  (21 multi-exon transcripts)
+#            (9 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :    5678 in    4854 loci  (0 multi-exon)
+# Super-loci w/ reference transcripts:        0
+#-----------------| Sensitivity | Precision  |
+        Base level:     0.0     |     0.0    |
+        Exon level:     0.0     |     0.0    |
+  Transcript level:     0.0     |     0.0    |
+       Locus level:     0.0     |     0.0    |
+
+     Matching intron chains:       0
+       Matching transcripts:       0
+              Matching loci:       0
+
+          Missed exons:    5678/5678	(100.0%)
+           Novel exons:     449/449	(100.0%)
+         Novel introns:      21/21	(100.0%)
+           Missed loci:    4854/4854	(100.0%)
+            Novel loci:     414/414	(100.0%)
+
+ Total union super-loci across all input datasets: 315 
+  (9 multi-transcript, ~3.2 transcripts per locus)
+1019 out of 1019 consensus transcripts written in gffcmp.combined.gtf (0 discarded as redundant)
